@@ -1,7 +1,7 @@
 - G'day, I’m Boom
 - I’m interested in anything IT, with extra interest in cyber security and tech repair
 - I'm currently in a cyber security course
-- Contact me on discord @ Boom_Mic#0001
+- Contact me on Discord @ Boom_Mic#0001
 
 <!---
 BoomSec/BoomSec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
