@@ -1,6 +1,5 @@
 - G'day, I’m Boom
 - I’m interested in anything IT, with extra interest in cyber security and tech repair
-- I'm currently in a cyber security course
 - Contact me on Discord @ Boom_Mic#0001
 
 <!---
