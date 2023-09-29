@@ -1,6 +1,8 @@
 - G'day, I’m Boom
-- I’m interested in anything IT, with extra interest in cyber security and tech repair
-- Contact me on Discord @ Boom_Mic#0001
+- Working in the IT Industry one support ticket at a time.
+- Cyber Security Researcher
+- Contact me on Discord @ boom_mic
+- Regular on discord.gg/owlsec
 
 <!---
 BoomSec/BoomSec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
