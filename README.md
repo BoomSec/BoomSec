@@ -35,7 +35,7 @@ About Me:
 - 📷 I also take [Photos](https://linktr.ee/boompix) sometimes
 
 <br><br>
-<div>
+<div align="left">
 
 ## 🖥️ My PC
 
