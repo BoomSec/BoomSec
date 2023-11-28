@@ -29,7 +29,7 @@ About Me:
 - 🌱 I'm currently learning `PowerShell`
 - 🔨 Often seen <del>breaking</del> working on:<br>
 &nbsp; ∘ &nbsp; Installing a New Linux Distro <br>
-&nbsp; ∘ &nbsp; Writing Proof of Concept Code<br>
+&nbsp; ∘ &nbsp; Writing Code<br>
 &nbsp; ∘ &nbsp; Installing Upgrades to Their PC<br>
 - 🪟 I'm currently running `3` different opeating systems on diffrent devices
 - 📷 I also take [Photos](https://linktr.ee/boompix) sometimes
