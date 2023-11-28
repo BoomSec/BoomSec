@@ -35,10 +35,29 @@ About Me:
 - 📷 I also take [Photos](https://linktr.ee/boompix) sometimes
 
 <br><br>
+<div>
 
 ## 🖥️ My PC
 
+- CPU: Intel i5-12600K
+- GPU: AMD Radeon RX 7900 XTX 24GB
+- RAM: 32GB (4x8GB) Corsair Vengeance Pro RGB CL18
+- Case: Cougar Darkblader
+- Cooler: Deepcool AK620
+- Motherboard: MSI MAG B660 TOMAHAWK
+- OS: Windows 11
 
+</div>
+
+<div>
+<br>
+  <h3>Thank you for coming to my ted talk</h3>
+  Now go check out some of my GitHub Repos... 
+  Or don't...
+  I am not the boss of you 🤣
+  <h2></h2>
+<br>
+</div>
 
 <!---
 BoomSec/BoomSec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
