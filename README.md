@@ -1,4 +1,4 @@
-[![Boom Security-logos_black_Banner_927x521](https://github.com/BoomSec/BoomSec/assets/106004915/0afede97-efbb-4bfe-97c9-9ae6151850e0)(https://Github.com/BoomSec)]
+[![Boom Security-logos_black_Banner_927x521](https://github.com/BoomSec/BoomSec/assets/106004915/0afede97-efbb-4bfe-97c9-9ae6151850e0)](https://Github.com/BoomSec)
 
 
 <!--
