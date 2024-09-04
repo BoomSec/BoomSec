@@ -32,7 +32,7 @@ About Me:
 &nbsp; ∘ &nbsp; Writing Code<br>
 &nbsp; ∘ &nbsp; Installing Upgrades to Their PC<br>
 - 🪟 I'm currently running `3` different opeating systems on different devices
-- 📷 I also take [Photos](https://linktr.ee/boompix) sometimes
+- 📷 I also take photos sometimes
 
 <br><br>
 <div align="left">
