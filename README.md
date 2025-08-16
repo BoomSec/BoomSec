@@ -45,7 +45,7 @@ About Me:
 - Case: Cougar Darkblader
 - Cooler: Deepcool AK620
 - Motherboard: MSI MAG B660 TOMAHAWK
-- OS: Windows 11
+- OS: Endeavour OS ~~I use arch btw~~
 
 </div>
 
