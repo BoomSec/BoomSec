@@ -26,7 +26,7 @@ About Me:
 
 - 🧑‍💻 I'm a service desk technician by trade
 - 🔒 I learn and study different aspects of cyber security by interest
-- 🌱 I'm currently learning `PowerShell`
+- 🌱 I'm currently learning `Linux`
 - 🔨 Often seen <del>breaking</del> working on:<br>
 &nbsp; ∘ &nbsp; Installing a New Linux Distro <br>
 &nbsp; ∘ &nbsp; Writing Code<br>
