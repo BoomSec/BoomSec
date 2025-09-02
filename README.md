@@ -20,7 +20,7 @@ About Me:
 ## ❓ About Me
 
 <div>
-<img align="left" src=https://github.com/BoomSec/BoomSec/assets/106004915/690100d7-a2d9-45b9-bd49-9e7d082e08c3>
+<!-- <img align="left" src=https://github.com/BoomSec/BoomSec/assets/106004915/690100d7-a2d9-45b9-bd49-9e7d082e08c3> -->
 <img align="left" height="300vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
