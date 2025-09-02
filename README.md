@@ -28,10 +28,10 @@ About Me:
 - 🔒 I learn and study different aspects of cyber security by interest
 - 🌱 I'm currently learning `Linux`
 - 🔨 Often seen <del>breaking</del> working on:<br>
-&nbsp; ∘ &nbsp; Installing a New Linux Distro <br>
-&nbsp; ∘ &nbsp; Writing Code<br>
-&nbsp; ∘ &nbsp; Installing Upgrades to Their PC<br>
-- 🪟 I'm currently running `3` different opeating systems on different devices
+&nbsp; ∘ &nbsp; Updating their linux rice <br>
+&nbsp; ∘ &nbsp; Tinkering to with their PC and or HomeLab<br>
+
+- 🪟 I'm currently running `2` different opeating systems on different devices
 - 📷 I also take photos sometimes
 
 <br><br>
