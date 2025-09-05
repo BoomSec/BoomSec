@@ -31,7 +31,7 @@ About Me:
 &nbsp; ∘ &nbsp; Updating their linux rice <br>
 &nbsp; ∘ &nbsp; Tinkering to with their PC and or HomeLab<br>
 
-- 🪟 I'm currently running `2` different opeating systems on different devices
+<!--- 🪟 I'm currently running `2` different opeating systems on different devices --->
 - 📷 I also take photos sometimes
 
 <br><br>
