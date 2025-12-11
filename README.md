@@ -6,7 +6,7 @@ Welcome to my readme source! Glad you made it here. This was a pain to to throw 
 Written with direct inspiration of github.com/ClaraCrazy
 -->  
 <div align="center">  
-<h3 align="center"> G'day I'm Boom. I am a service desk technician that has an <del>obsession</del> interest in cyber security </h3>
+<h3 align="center"> G'day I'm Boom. I am a IT Worker that has an <del>obsession</del> interest in cyber security </h3>
 <h2 align="center"></h2>
 </div>
 
